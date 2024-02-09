@@ -9,6 +9,9 @@ Projeto desenvolvido no evento da Rocketseat NLWE Trila React
     - Typescript
     - Vite
     - Tailwind
+    - Radix
+    - date-fns
+    - Lucide React Icons
 
 **`patterns`**:
     - componentização
